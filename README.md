@@ -1,4 +1,4 @@
-### Hi there 👋
+![Lou Shang's GitHub stats](https://github-readme-stats.vercel.app/api?username=clay4444&show_icons=true)
 
 <!--
 **clay4444/clay4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
